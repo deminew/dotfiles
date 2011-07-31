@@ -52,3 +52,12 @@
 [submodule "_vim/bundle/solarized"]
 	path = _vim/bundle/solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "_vim/bundle/easymotion"]
+	path = _vim/bundle/easymotion
+	url = git://github.com/Lokaltog/vim-easymotion.git
+[submodule "_vim/bundle/nerdcommenter"]
+	path = _vim/bundle/nerdcommenter
+	url = git://github.com/Lokaltog/vim-easymotion.git
+[submodule "_vim/bundle/rope-omni"]
+	path = _vim/bundle/rope-omni
+	url = git://github.com/rygwdn/rope-omni.git
